@@ -1,5 +1,5 @@
 .header {
-    background-image: url('images/header-background.png');
+    background-image: url('images/mount-kinabalu.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -42,7 +42,7 @@
 }
 
 .description h1 {
-    color: #6ab446;
+    color: #42ced5;
 }
 
 .description p {
@@ -51,8 +51,8 @@
     line-height: 1.5;
 }
 .description button {
-    border:1px solid #6ab446;
-    background:#6ab446;
+    border:1px solid #42ced5;
+    background:#42ced5;
     border-radius: 0;
     color:#fff;
 }
@@ -69,8 +69,8 @@
 }
 
 .features .btn {
-    background-color: #589b37;
-    border: 1px solid #589b37;
+    background-color: #42ced5;
+    border: 1px solid #42ced5;
     color: #fff;
     margin-top: 20px;
 }
@@ -87,7 +87,7 @@ body {
 }
 
 .navbar {
-    background:#6ab446;
+    background:#42ced5;
 }
 
 .nav-link,
